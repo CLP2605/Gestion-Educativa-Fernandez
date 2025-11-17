@@ -17,6 +17,7 @@ El sistema permite:
 * Visualizar datos de forma organizada y actualizada
 
 ======== Usos y Permisos ===========
+
 Para acceder correctamente a la aplicación:
 * El usuario debe contar con una cuenta de correo electrónico válida (Gmail recomendado).
 * Esa cuenta debe estar registrada en el panel de usuarios autorizados de AppSheet.

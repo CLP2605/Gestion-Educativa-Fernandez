@@ -42,8 +42,11 @@ Navegadores compatibles: Brave, Chrome, Edge, Firefox, Opera, Safari.
 *Conexiones lentas pueden generar demoras o impedir la carga correcta de la interfaz.*
 
 Para la Versión APP MOVIL
+
 **Requisitos Mínimos:**
+
 Celular o dispositivo movil con Android versión 4.5 o superior.
+
 Conexión a internet estable.
 
 *AVISO IMPORTANTE!!!*: Ante cualquier inconveniente en la aplicación comuniquese inmediatamente con el equipo de desarrollo.

@@ -1,10 +1,17 @@
+AVISO IMPORTANTE!!!: Ante cualquier inconveniente en la aplicación comuniquese inmediatamente con el equipo de desarrollo.
+
 =================================
   Requisitos para la Versión WEB
 =================================
 
-
+Requisitos Mínimos: Procesador: Dual core o Superior. Memoria RAM: 2 GB o Superior. Video (Integrado o Dedicado): 512 Mb o Superior. 
+Conexión a Internet de 5 megas o más (Conexiones inferiores pueden generar problemas al cargar datos, o que directamente no se muestre la 
+interfaz gráfica de la aplicación). Sistema Operativo: Linux (En todas sus distribuciones), Windows 7 o Superior. Navegadores compatibles: 
+Brave, Chrome, Edge, Firefox, Opera, Safari.
 
 
 ========================================
   Requisitos para la Versión APP MOVIL
 ========================================
+
+ Requisitos Mínimos: Celular o dispositivo movil con Android versión 4.5 o superior.

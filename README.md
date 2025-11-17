@@ -63,7 +63,6 @@ usuario y contraseña.
 * Ingrese con su correo autorizado.
 * Siga las instrucciones en pantalla para acceder al panel principal.
 
-Una vez dentro de la pagina direccionada ingrese apretando en ...
 
 Para la versión APP MOVIL: 
 * Si es la primera vez que ingresa a la aplicación, primero asegurese de ir a google playstore y descargar la 

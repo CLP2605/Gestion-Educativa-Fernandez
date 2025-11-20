@@ -59,7 +59,7 @@ En la presente guía de usuario se detallará a continuación los procedimientos
 Para la versión WEB: 
 * Antes de iniciar la aplicación, asegurese de haber ingresado en su cuenta de correo electronico, o tener a mano su 
 usuario y contraseña. 
-* Dirijase a la pagina de la aplicación mediante la siguiente URL: https:\\ejemplolaaplicaciónaqui.com. 
+* Dirijase a la pagina de la aplicación mediante la siguiente URL: https://www.appsheet.com/start/cee86596-5ac0-4969-a496-8412fdbe4edf
 * Ingrese con su correo autorizado.
 * Siga las instrucciones en pantalla para acceder al panel principal.
 

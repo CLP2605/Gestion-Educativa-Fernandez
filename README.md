@@ -1,6 +1,8 @@
 # Gestion-Educativa-Fernandez
 Sistema de Gestión de pedidos educativos - Equipo Municipalidad Fernández
 
+[![Haz clic para ver el video en YouTube](https://img.youtube.com/vi/_M9ujT7srLw/0.jpg)](https://www.youtube.com/watch?v=_M9ujT7srLw)
+
 ========== Contexto General ======
 
 La aplicación EduPedidos fue diseñada para optimizar la carga, seguimiento y gestión de solicitudes provenientes de instituciones educativas de la ciudad de Fernández.

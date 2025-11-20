@@ -1,4 +1,4 @@
-======== Enlace o Link del Vdeo en Youtube ===============
+======== Enlace o Link del Video en Youtube ===============
 
 Haz click en la imagen para ver el video en YOUTUBE.
 

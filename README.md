@@ -1,7 +1,7 @@
 # Gestion-Educativa-Fernandez
 Sistema de Gestión de pedidos educativos - Equipo Municipalidad Fernández
 
-[![Haz clic para ver el video en YouTube](https://img.youtube.com/vi/_M9ujT7srLw/0.jpg)](https://www.youtube.com/watch?v=_M9ujT7srLw)
+[![Haz clic para ver el video en YouTube](https://img.youtube.com/vi/7OytyiVuBPA/0.jpg)](https://www.youtube.com/watch?v=7OytyiVuBPA)
 
 ========== Contexto General ======
 
